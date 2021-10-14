@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>And this is my studentcode: 213457IACB</p>
+<h1>Kõige huvatavaim HEADING </h1>
+<p>See on minu õppekood: 213457IACB</p>
 
   <table>
   <tr>
