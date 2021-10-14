@@ -10,12 +10,12 @@
 
   <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Õppenädal</th>
+    <th>6</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>Hind</td>
+    <td>5 &#128522</td>
   </tr>
 </table> 
   
