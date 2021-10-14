@@ -11,10 +11,10 @@
   <table>
   <tr>
     <th>Õppenädal</th>
-    <th>6</th>
+    <th>Hind</th>
   </tr>
   <tr>
-    <td>Hind</td>
+    <td>6</td>
     <td>5 &#128522</td>
   </tr>
 </table> 
