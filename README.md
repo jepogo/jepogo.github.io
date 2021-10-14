@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Kõige huvatavaim HEADING </h1>
+<h2>Kõige huvatavaim HEADING </h2>
 <p>See on minu õppekood: 213457IACB</p>
 
   <table>
@@ -19,8 +19,8 @@
   </tr>
 </table> 
   
-<h3>Uudised</h3>
-<h1>Politsei keskendub piirangukontrollis reegleid eiravatele ettevõtetele</h1>
+<h1>Uudised</h1>
+<h3>Politsei keskendub piirangukontrollis reegleid eiravatele ettevõtetele</h3>
   
   
 </body>
