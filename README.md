@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h2>Kõige huvatavaim HEADING </h2>
+<h2>https://taltech.ee/</h2>
 <p>See on minu õppekood: 213457IACB</p>
 
   <table>
