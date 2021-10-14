@@ -27,8 +27,8 @@ Kallas ütles, et PPA peadirektori Elmar Vaheri sõnul on politsei teinud 14 000
 
 Samas on ettevõtteid, mis on teinud endale reklaami teadetega, et nemad koroonatõendit ei küsi, rääkis Kallas. Edaspidi hakkab politsei sellistele asutustele rohkem tähelepanu pöörama.</p>
   <picture>
-  <source media="(min-width:650px)" srcset="resize.webp">
-  <source media="(min-width:465px)" srcset="resize.webp">
+  <source media="(min-width:650px)" srcset="yhistranspordi-foorituledest-kinnipidamise-kontroll-tallinnas-9.02.2017-30-.jpg">
+  <source media="(min-width:465px)" srcset="yhistranspordi-foorituledest-kinnipidamise-kontroll-tallinnas-9.02.2017-30-.jpg">
   <img src="img_orange_flowers.jpg" alt="Police" style="width:auto;">
 </picture>
   
