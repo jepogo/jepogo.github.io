@@ -19,6 +19,10 @@
   </tr>
 </table> 
   
+<h3>Uudised</h3>
+<h1>Politsei keskendub piirangukontrollis reegleid eiravatele ettevõtetele</h1>
+  
+  
 </body>
 </html>
 
