@@ -26,7 +26,7 @@
 Kallas ütles, et PPA peadirektori Elmar Vaheri sõnul on politsei teinud 14 000 reidi ettevõtetesse, kontrollinud terviseameti palvel maskide kandmist kohtades, kus see on nõutav ning koroonatõendite küsimist.
 
 Samas on ettevõtteid, mis on teinud endale reklaami teadetega, et nemad koroonatõendit ei küsi, rääkis Kallas. Edaspidi hakkab politsei sellistele asutustele rohkem tähelepanu pöörama.</p>
-  <h4 style="color:Gray;">Kasutatud alikas: https://www.err.ee/1608369432/politsei-keskendub-piirangukontrollis-reegleid-eiravatele-ettevotetele</h4>
+  <h4 style="color:Tomato;">Kasutatud alikas: https://www.err.ee/1608369432/politsei-keskendub-piirangukontrollis-reegleid-eiravatele-ettevotetele</h4>
   
 </body>
 </html>
